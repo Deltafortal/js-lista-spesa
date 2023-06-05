@@ -17,5 +17,19 @@
 /* Generals */
 
 body {
-    background-color: blue;
+    background-color: rgb(185, 185, 228);
+}
+
+/* Main */ 
+
+.container {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+ul {
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+    list-style-type: none;
 }
